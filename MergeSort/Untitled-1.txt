@@ -1,0 +1,20 @@
+/**
+ * MergeSort PsudoCode 
+ * 1 - Read Array (x), start , end index 
+ * 2 - Base Case : Stop if end == Start 
+ * 3 - Calculate Midpoint (Start + end) / 2 
+ * 4 - Divide The Portion of the array into two new arrays
+ * 5 - Call MergSort Function twice for the Left & Right arrays
+ * 6 - Merge the two Portions
+ * 
+ * 7- print x
+ * 
+ * 
+ * MergeOnly
+ * 1- Read array (x), start, midpoint, End
+ * 2- Create two new arrays for each side
+ * 3- Compare all items of the array and sort them in original array
+ * 4- Move Remain items to the original array
+ * 
+*/
+
